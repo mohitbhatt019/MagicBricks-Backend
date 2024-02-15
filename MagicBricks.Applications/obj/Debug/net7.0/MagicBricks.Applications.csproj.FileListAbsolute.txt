@@ -1,0 +1,15 @@
+C:\MAUI\MagicBricks_Clone\MagicBricks.Applications\bin\Debug\net7.0\MagicBricks.Applications.deps.json
+C:\MAUI\MagicBricks_Clone\MagicBricks.Applications\bin\Debug\net7.0\MagicBricks.Applications.dll
+C:\MAUI\MagicBricks_Clone\MagicBricks.Applications\bin\Debug\net7.0\MagicBricks.Applications.pdb
+C:\MAUI\MagicBricks_Clone\MagicBricks.Applications\bin\Debug\net7.0\MagicBricks.Domain.dll
+C:\MAUI\MagicBricks_Clone\MagicBricks.Applications\bin\Debug\net7.0\MagicBricks.Domain.pdb
+C:\MAUI\MagicBricks_Clone\MagicBricks.Applications\obj\Debug\net7.0\MagicBricks.Applications.csproj.AssemblyReference.cache
+C:\MAUI\MagicBricks_Clone\MagicBricks.Applications\obj\Debug\net7.0\MagicBricks.Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\MAUI\MagicBricks_Clone\MagicBricks.Applications\obj\Debug\net7.0\MagicBricks.Applications.AssemblyInfoInputs.cache
+C:\MAUI\MagicBricks_Clone\MagicBricks.Applications\obj\Debug\net7.0\MagicBricks.Applications.AssemblyInfo.cs
+C:\MAUI\MagicBricks_Clone\MagicBricks.Applications\obj\Debug\net7.0\MagicBricks.Applications.csproj.CoreCompileInputs.cache
+C:\MAUI\MagicBricks_Clone\MagicBricks.Applications\obj\Debug\net7.0\MagicBricks.Applications.csproj.CopyComplete
+C:\MAUI\MagicBricks_Clone\MagicBricks.Applications\obj\Debug\net7.0\MagicBricks.Applications.dll
+C:\MAUI\MagicBricks_Clone\MagicBricks.Applications\obj\Debug\net7.0\refint\MagicBricks.Applications.dll
+C:\MAUI\MagicBricks_Clone\MagicBricks.Applications\obj\Debug\net7.0\MagicBricks.Applications.pdb
+C:\MAUI\MagicBricks_Clone\MagicBricks.Applications\obj\Debug\net7.0\ref\MagicBricks.Applications.dll

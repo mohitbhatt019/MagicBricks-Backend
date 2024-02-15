@@ -1,0 +1,12 @@
+C:\MAUI\MagicBricks_Clone\MagicBricks.Domain\bin\Debug\net7.0\MagicBricks.Domain.deps.json
+C:\MAUI\MagicBricks_Clone\MagicBricks.Domain\bin\Debug\net7.0\MagicBricks.Domain.dll
+C:\MAUI\MagicBricks_Clone\MagicBricks.Domain\bin\Debug\net7.0\MagicBricks.Domain.pdb
+C:\MAUI\MagicBricks_Clone\MagicBricks.Domain\obj\Debug\net7.0\MagicBricks.Domain.csproj.AssemblyReference.cache
+C:\MAUI\MagicBricks_Clone\MagicBricks.Domain\obj\Debug\net7.0\MagicBricks.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\MAUI\MagicBricks_Clone\MagicBricks.Domain\obj\Debug\net7.0\MagicBricks.Domain.AssemblyInfoInputs.cache
+C:\MAUI\MagicBricks_Clone\MagicBricks.Domain\obj\Debug\net7.0\MagicBricks.Domain.AssemblyInfo.cs
+C:\MAUI\MagicBricks_Clone\MagicBricks.Domain\obj\Debug\net7.0\MagicBricks.Domain.csproj.CoreCompileInputs.cache
+C:\MAUI\MagicBricks_Clone\MagicBricks.Domain\obj\Debug\net7.0\MagicBricks.Domain.dll
+C:\MAUI\MagicBricks_Clone\MagicBricks.Domain\obj\Debug\net7.0\refint\MagicBricks.Domain.dll
+C:\MAUI\MagicBricks_Clone\MagicBricks.Domain\obj\Debug\net7.0\MagicBricks.Domain.pdb
+C:\MAUI\MagicBricks_Clone\MagicBricks.Domain\obj\Debug\net7.0\ref\MagicBricks.Domain.dll
